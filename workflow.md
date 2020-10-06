@@ -24,8 +24,9 @@ You all preform a pull request if you would have any problems, or if you want me
 ** no star _some star with underline_**
 ~~this sentence is dicoret~~  
 
-1. Numero uno
+1. Numero uno  
 2. Numero dos  
+3. Numero tres  
 
 [Hanyang](www.hanyang.ac.kr)
 
